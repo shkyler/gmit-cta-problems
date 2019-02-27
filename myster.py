@@ -16,11 +16,3 @@ def mystery(n):
 
 # caLL the function by passing the value '1' to it
 mystery(1)  
-
-'''
-def fact(n):
-  if n <=1 :
-    return 1
-  else: 
-    return n * fact(n-1)
-'''
