@@ -22,12 +22,3 @@ b = [0,1,0,-127,346,125]
 print(dupes(a))
 print(dupes(b))
 
-#import time
-#start = time.time()
-#a = [10,0,5,3,-19,5] 
-#b = [0,1,0,-127,346,125]
-#print(dupes(a))
-#end = time.time()
-
-#print("Runtime is: " + str(end - start))
-
